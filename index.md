@@ -74,3 +74,10 @@ layout: default
 
 　　最后，网络只是工具，别让它绑住了你。偶尔放下手机，感受一下喀麦隆火山脚下的风，或许比刷完又一个短视频更有价值。祝你在这片“小非洲”的土地上，线上线下都畅通无阻。
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Cameroon SIM 卡购买与激活指南](https://faciylike.github.io/cameroon-sim-guides)
